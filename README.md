@@ -19,7 +19,7 @@ There are two lines to modify in `_config.yml`:
 
 1. (At line 16) Set your site url here. For example, if you use GitHub Page, set url as `https://username.github.io/project`:
 ```yml
-url: https://jiji.pro/hexo-template
+url: https://yudaihua.github.io
 ```
 
 2. (At line 107) Set your project name here, if your project name is `username` or `username.github.io`, just remove it at the end of `_config.yml`:
