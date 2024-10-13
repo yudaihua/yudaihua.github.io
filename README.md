@@ -4,10 +4,10 @@
 
 > A fast, simple & powerful blog framework, powered by [Node.js](https://nodejs.org). Here is the template of it.
 
-[Demo](https://mmdjiji.github.io/hexo-template) |
+[Demo](https://yudaihua.github.io) |
 [Official Website](https://hexo.io) |
 [Documentation](https://hexo.io/docs/) |
-[GitHub](https://github.com/mmdjiji/hexo-template)
+[GitHub](https://github.com/yudaihua/hexo-template)
 
 ## CI/CD
 
